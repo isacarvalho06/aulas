@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" contet="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Teste, aula 1</h1>
+    <p>paragrafo<p>
+        <p>outro texto
+            <span style="color: pink;">separado por span</span>
+            ou talvez um 
+            <strong> texto em negrito</strong>
+            <p>
+                <span>span</span>
+                <strong><strong></strong>
+
+                <hr>
+                <h2>Desafio</h2>
+                <p>texto <input type="text" name="" id=""></p>
+                <p>numero <input type="number" name="" id=""></p>
+                <p>data <input type="date" name="" id=""></p>
+            <p>data E hora <input type="datetime-local" name="" id=""></p>
+            <p>bolinha <input type="radio" name="" id=""></p>
+            <p>caixa de seleção <input type="checkbox" name="" id=""></p>
+            <p>seleção <select name="" id="">
+                <option value="">1</option>
+                <option value="">2</option>
+                <option value="">3</option>
+                <option value="">4</option>
+                <option value="">5</option>
+                </select></p>
+                <p>caixa de texto grande</p>
+                <textarea name="" id="" cols="30" rows="10"></textarea>
+            </body>
+
+            </html>
+
